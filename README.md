@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi **Conversor de Moneda** en Java! 🚀  
 Un proyecto hecho con cariño, código limpio y un toque de paciencia para que puedas cambiar entre monedas sin dolores de cabeza.  
-Porque nunca se sabe cuándo vas a necesitar saber cuántos yenes te puedes comprar con esos pesos chilenos que tienes por ahí. 😉
+Porque nunca se sabe cuándo vas a necesitar saber cuántos yenes te puedes comprar con esas monedas que tienes por ahí. 😉
 
 ---
 
