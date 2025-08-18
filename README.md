@@ -70,3 +70,4 @@ Resultado: 1000 CLP = 1.23 USD
 Pablo Andrés Verdugo Salazar
 Tatuador, programador en formación y curioso por naturaleza.
 Si no estoy tatuando un dragón, probablemente esté escribiendo código. 🐉💻
+Tambien me ayude con IA para corregir y mejorar mi codigo.
