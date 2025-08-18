@@ -20,7 +20,7 @@ Está pensado para ejecutarse en consola y cuenta con:
 Aquí puedes ver cómo luce el Conversor en acción:  
 
 
-![Menú principal](imagenes/menu-principal.png)  
+![Menú principal](imagenes/Menu%20principal.png)  
 ![Ejemplo de conversión](imagenes/ejemplo-conversion.png)  
 ![Historial de conversiones](imagenes/historial.png)  
 
