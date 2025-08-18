@@ -20,9 +20,12 @@ Está pensado para ejecutarse en consola y cuenta con:
 Aquí puedes ver cómo luce el Conversor en acción:  
 
 
-![Menú principal](imagenes/Menu%20principal.png)  
-![Ejemplo de conversión](imagenes/ejemplo-conversion.png)  
-![Historial de conversiones](imagenes/historial.png)  
+Menu principal ![Menú principal](imagenes/Menu%20principal.png)  
+Selecciona una opcion ![Selecciona una opcion](imagenes/Selecciona%20una%20opcion.png)
+Ingresa monto a convertir ![Ingresa monto a convertir](imagenes/Ingresa%20monto%20a%20convertir.png)
+Resultado y opciones nuevamente ![Resultado y opciones nuevamente](imagenes/Resultado%20y%20opciones%20nuevamente.png)
+Historial de las ultimas 5 conversiones ![Historial de las ultimas 5 conversiones](imagenes/Historial%20de%20las%20ultimas%205%20conversiones.png)  
+Salir ![Salir](imagenes/Salir.png)  
 
 ---
 
