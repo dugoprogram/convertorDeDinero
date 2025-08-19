@@ -27,3 +27,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Archivos y carpetas que no queremos subir a GitHub
+
+# Carpeta de configuración de IntelliJ
+
+.idea/
+
+# Archivos de configuración del proyecto
+*.iml
+
+# Archivos JSON temporales
+0.json
+
+
+
